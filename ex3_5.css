@@ -1,0 +1,25 @@
+body        { background-color: black;
+              color: white ;
+              font-family: Arial, Helvetica, sans-serif; }
+
+h1          { color: #CCCCCC;
+                  line-height: 200%;
+                  font-family: "Times New Roman" ;
+                  text-indent: 5em; }
+
+nav         { background-color: #CCCCCC;
+              color: #0e0afc;
+              font-weight: bold;
+              font-size: 1.75em; }
+
+h2          { color: #c109bb;
+              font-family: Georgia, "Times New Roman", serif;
+              text-shadow: 1px 1px 3px #150d91; }
+
+ul          { font-weight: bold;
+              font-size: 1.25em; }
+
+p           { font-size: 0.75em; }
+
+.news       { color: red;
+              font-style: italic; }
